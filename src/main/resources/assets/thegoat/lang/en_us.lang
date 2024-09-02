@@ -1,0 +1,9 @@
+tile.thegoat.coolblock.name=Cool Block
+tile.thegoat.cat_statue.name=Cat Statue
+
+item.thegoat.horse_meat.name=Carne de Cavalo
+item.thegoat.raw_horse_meat.name=Carne de Cavalo Crua
+item.thegoat.cat_heart.name=Coração de Gato
+item.thegoat.cooked_cat_heart.name=Coração de Gato Assado
+
+itemGroup.thegoat=The Goat Mod

@@ -1,0 +1,10 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "facing=north": { "model": "thegoat:cat_statue" },
+        "facing=south": { "model": "thegoat:cat_statue", "y": 180 },
+        "facing=west": { "model": "thegoat:cat_statue", "y": 270 },
+        "facing=east": { "model": "thegoat:cat_statue", "y": 90 },
+        "inventory": { "model": "thegoat:cat_statue" }
+    }
+}
